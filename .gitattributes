@@ -1,6 +1,7 @@
 # Basic .gitattributes for a python repo.
 clean_blog/static/clean_blog/vendor/* linguist-vendored
 clean_blog/static/clean_blog/js/* linguist-vendored
+clean_blog/templates/* linguist-vendored
 
 # Source files
 # ============
