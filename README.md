@@ -1,8 +1,9 @@
 # django-bootstrap-clean-blog
 
-![Screenshot of index page](https://user-images.githubusercontent.com/147306/63082407-c2ff4200-bf78-11e9-8004-5e88aa50b5bf.png)
 
-![Screenshot of django admin dashboard with markdown editor](https://user-images.githubusercontent.com/147306/63082433-d01c3100-bf78-11e9-99f4-50eabe20f62a.png)
+<img src="https://user-images.githubusercontent.com/147306/63082407-c2ff4200-bf78-11e9-8004-5e88aa50b5bf.png" alt="Screenshot of index page" width="300"/>
+
+![Screenshot of django admin dashboard with markdown editor](https://user-images.githubusercontent.com/147306/63082433-d01c3100-bf78-11e9-99f4-50eabe20f62a.png =250x)
 
 # Quick Install
 
