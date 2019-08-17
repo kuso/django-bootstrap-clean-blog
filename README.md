@@ -20,15 +20,22 @@ Screenshot of django admin dashboard with markdown editor
 
 # Quick Install
 
+- create and activate a virtualenv first
 ```
-git clone this project to local folder
+python3 -m venv example_blog
+source example_blog/bin/activate
 ```
 
-- download and install the required library
+- download and install the required dependencies
 ```
 pip install django-mdeditor
 pip install django-taggit
 pip install markdown2
+```
+
+- clone the project
+```
+git clone this project to local folder
 ```
 
 - init the database schema
