@@ -7,6 +7,7 @@ This project aims to provide a fast and simple Django based blog boilerplate wit
 - Clean Blog theme from [startbootstrap.com](https://startbootstrap.com/themes/clean-blog/)
 - markdown support using django-mdeditor
 - tags management using django-taggit
+- markdown to html rendering via markdown2, with extras features 'tables' and 'fenced-code-blocks' turned on
 
 
 Screenshot of blog index page
@@ -27,6 +28,7 @@ git clone this project to local folder
 ```
 pip install django-mdeditor
 pip install django-taggit
+pip install markdown2
 ```
 
 - init the database schema
